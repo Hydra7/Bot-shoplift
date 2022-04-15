@@ -9,6 +9,3 @@ How to use :
 3. command : perl shoplift.pl <--- in your webshell after your upload
 4. just waiting, if the bot is ready, it will send a message in private chat on IRC
 
-
-
-join my room : server : irc.planetwork.co.id channel : #DarkIT
